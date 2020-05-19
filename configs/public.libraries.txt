@@ -1,0 +1,2 @@
+libOpenCL.so
+libontim_em_sensor_jni.so
